@@ -10,7 +10,7 @@ contract TaskContract {
     //ejecuta porción de código cuando se ejecuta por primera vez el contrato
     // tipo un componentDidMount
     constructor (){
-        createTask("Mi primer tarea", "Estudiando solidity");
+        createTask("My First Task", "Practicing Solidity");
     }
 
     //eventos
