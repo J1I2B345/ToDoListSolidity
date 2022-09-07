@@ -23,6 +23,7 @@ After clone this respository.
 ![1Network](https://user-images.githubusercontent.com/103390530/188784796-e7249a8c-781d-4475-b266-82b8142ddfe5.png)
 ![1NetworkAdded](https://user-images.githubusercontent.com/103390530/188785292-a712ee71-0118-4c26-a6a6-9d74671b7213.png)
 - select the new network added
+
 ![1NetworkSelect](https://user-images.githubusercontent.com/103390530/188785527-5cd7709e-eb9a-4e8c-979b-070c4806e224.png)
 - open the project and run the command line `npm i`
 - run in the console of truffle deployed
